@@ -1,1 +1,2 @@
-//TODO write code here...
+//TODO write code here if needed
+console.log("Script loaded successfully.");
